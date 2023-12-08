@@ -1,0 +1,2 @@
+# nvconfig
+Neovim Configuration File
